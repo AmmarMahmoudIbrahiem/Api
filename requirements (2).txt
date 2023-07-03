@@ -54,6 +54,7 @@ numpy==1.21.6
 oauthlib==3.2.2
 opt-einsum==3.3.0
 orjson==3.8.7
+pip==23.1.2 
 packaging==23.1
 passlib==1.7.4
 platformdirs==2.5.4
